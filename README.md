@@ -38,4 +38,4 @@ Credits
 
 Support
 
-For support or inquiries, please contact us at support@example.com.
+For support or inquiries, please contact us at dqsmvhwj3@mozmail.com.
