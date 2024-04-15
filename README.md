@@ -20,6 +20,7 @@ Installation
     Click on "Load unpacked" and select the extension directory.
 
 Usage
+https://addons.mozilla.org/en-US/firefox/addon/check-company/
 
     Once installed, the extension will automatically check the current website when it is opened.
     On clicking extension a status message will be displayed indicating whether the website belongs to any of the listed companies.
