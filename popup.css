@@ -67,7 +67,7 @@ img{
 /* Media query for smaller screens */
 @media (max-width: 500px) {
   #json-container {
-    max-width: 50%;
+    max-width: 100%;
     padding: 10px 10px;
   }
   h1{

@@ -18,10 +18,15 @@ function checkCompany(domain) {
       })
       .then(companies => {
           if (companies.includes(domain)) {
-              showStatus(`${domain} Supports Isreal in Genocide.`);
-          } else {
-              showStatus(`${domain} does not Support Isreal in Genocide.`);
-          }
+              showStatus(`${domain.replace(/\.com$/, "")} Supports Isreal in Genocide.`);
+          } 
+          else {
+            if (domain.endsWith('.co.il') || domain.endsWith('.il') || domain.endsWith("org.il")) {
+                showStatus(`${domain} is an Israeli company.`);
+            } else {
+                showStatus(`No data Available for this ${domain.replace(/\.com$/, "")} company`);
+            }
+        }
       })
       .catch(error => {
           showStatus('Error fetching company data.');
