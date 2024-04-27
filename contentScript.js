@@ -20,7 +20,8 @@ function checkCompany(domain) {
           if (companies.includes(domain)) {
               showStatus(`${domain} Supports Isreal in Genocide.`);
           } else {
-              showStatus(`${domain} does not Support Isreal in Genocide.`);
+              showStatus(`${domain} does not Support Isreal in Genocide.
+              Or this company does not support`);
           }
       })
       .catch(error => {
