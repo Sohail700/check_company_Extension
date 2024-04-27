@@ -24,7 +24,8 @@ function checkCompany(domain) {
             if (domain.endsWith('.co.il') || domain.endsWith('.il') || domain.endsWith("org.il")) {
                 showStatus(`${domain} is an Israeli company.`);
             } else {
-                showStatus(`No data Available for this ${domain.replace(/\.com$/, "")} company`);
+                showStatus(`No data Available for this ${domain.replace(/\.com$/, "")} company
+                Or this company does not support`);
             }
         }
       })
