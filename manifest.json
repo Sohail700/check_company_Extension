@@ -21,9 +21,6 @@
   "default_popup": "popup.html",
   "default_icon": "icons/icon48.png"
 },
-"options_ui": {
-  "open_in_tab": false
-},
   "web_accessible_resources": [
     "companies.json"
   ]
