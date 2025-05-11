@@ -4,43 +4,50 @@ body {
   margin: 0;
   padding: 0;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  background: linear-gradient(135deg, #222, #444); /* dark gradient */
-  height: 200px;
-  width: 300px;
+  background: linear-gradient(135deg, #1c1c1c, #2e2e2e);
+  height: 220px;
+  width: 320px;
   display: flex;
   justify-content: center;
   align-items: center;
 }
 
 #json-container {
-  background: rgba(255, 255, 255, 0.1); /* frosted glass effect */
-  backdrop-filter: blur(12px);
+  background: rgba(255, 255, 255, 0.06);
+  backdrop-filter: blur(10px);
   border: 1px solid rgba(255, 255, 255, 0.2);
   box-shadow: 0 8px 32px rgba(0, 0, 0, 0.25);
   border-radius: 16px;
-  padding: 20px;
+  padding: 24px 20px;
   width: 90%;
+  max-width: 280px;
   text-align: center;
   color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 12px;
 }
 
 #json-container h1 {
-  font-size: 20px;
-  margin: 10px 0;
+  font-size: 18px;
+  margin: 0;
+  font-weight: bold;
 }
 
 #status {
-  margin-top: 12px;
   font-size: 14px;
   font-weight: 400;
   color: #f3f3f3;
+  margin-top: 4px;
 }
 
 .img {
-  width: 48px;
-  height: 48px;
+  width: 56px;
+  height: 56px;
   border-radius: 50%;
   transition: transform 0.3s ease;
+  margin-bottom: 4px;
 }
 
 .img:hover {
