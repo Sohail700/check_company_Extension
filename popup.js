@@ -23,6 +23,18 @@ function checkCompany(domain) {
           else {
             if (domain.endsWith('.co.il') || domain.endsWith('.il') || domain.endsWith("org.il")) {
                 showStatus(`${domain} is an Israeli company.`);
+              const blackout = document.createElement('div');
+    blackout.style.position = 'fixed';
+    blackout.style.top = '0';
+    blackout.style.left = '0';
+    blackout.style.width = '100%';
+    blackout.style.height = '100%';
+    blackout.style.backgroundColor = 'black';
+    blackout.style.zIndex = '999999';  // Make sure it's on top of everything
+    blackout.style.pointerEvents = 'none'; // Prevent interaction
+    blackout.style.opacity = '0.95';
+
+    document.body.appendChild(blackout);
             } else {
                 showStatus(`No data Available for this ${domain.replace(/\.com$/, "")} company
                 Or this company does not support`);
