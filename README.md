@@ -34,7 +34,7 @@ Together, we can make a difference for the people of Palestine. Stand with Gaza 
 
 ---
 
-![Free Palestine Map](https://upload.wikimedia.org/wikipedia/commons/0/08/Palestine_map.png)
+![Free Palestine Map]([https://upload.wikimedia.org/wikipedia/commons/0/08/Palestine_map.png](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Palestine_with_the_Hauran_and_the_adjacent_districts%2C_William_Hughes_1843.jpg/330px-Palestine_with_the_Hauran_and_the_adjacent_districts%2C_William_Hughes_1843.jpg))
 
 # Free Palestine
 
