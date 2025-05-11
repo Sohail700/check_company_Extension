@@ -1,9 +1,9 @@
 {
   "manifest_version": 2,
   "name": "Company URL Checker",
-  "version": "2.5",
+  "version": "3",
   "description": "An extension to check if a website belongs to a specific list of companies.",
-  "permissions": ["tabs", "activeTab", "storage"],
+  "permissions": ["tabs", "activeTab"],
   "browser_action": {
     "default_popup": "popup.html",
     "default_icon": {
@@ -17,12 +17,6 @@
     "48": "icons/icon48.png",
     "128": "icons/icon128.png"
   },
-  "content_scripts": [
-    {
-      "matches": ["<all_urls>"],
-      "js": ["contentScript.js"] 
-    }
-  ],
   "web_accessible_resources": [
     "companies.json"
   ]
