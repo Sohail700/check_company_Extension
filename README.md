@@ -31,24 +31,23 @@ If you'd like to support the people of Gaza, here are some trusted organizations
 ### Support Gaza, Support Peace
 
 Together, we can make a difference for the people of Palestine. Stand with Gaza and help bring relief during these difficult times.
+![1750_map_of_Palestine_published_by_Homannsche_Erben](https://github.com/user-attachments/assets/fe9d6afb-21a7-4dbf-ad05-064aac690899)
 
 ---
-
-![Free Palestine Map]([https://upload.wikimedia.org/wikipedia/commons/0/08/Palestine_map.png](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Palestine_with_the_Hauran_and_the_adjacent_districts%2C_William_Hughes_1843.jpg/330px-Palestine_with_the_Hauran_and_the_adjacent_districts%2C_William_Hughes_1843.jpg))
 
 # Free Palestine
 
 Let us raise our voices for justice and peace. Gaza needs your help, and your donation can bring relief to those in desperate need.
 
-
-
-*Image*
-
-![{3A4DC507-1DCB-4734-9111-553F88372018}](https://github.com/user-attachments/assets/1d0c9938-4333-4de2-b27a-a18473496e29)
+<br>
+<br>
 
 
 An extension to check if a website belongs to a specific list of companies.
 Overview
+*Image*
+
+![{3A4DC507-1DCB-4734-9111-553F88372018}](https://github.com/user-attachments/assets/1d0c9938-4333-4de2-b27a-a18473496e29)
 
 Company URL Checker is a browser extension that allows users to quickly determine if a website belongs to a predefined list of companies. It helps users identify whether a website is affiliated with a particular company, making it useful for various purposes such as brand monitoring, competitor analysis, and more.
 Features
