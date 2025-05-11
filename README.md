@@ -2,6 +2,11 @@ Company URL Checker
 
 ![icon128](https://github.com/Sohail700/check_company_Extension/assets/84376032/de6348ea-3791-4861-88be-8df002094165)
 
+*Image*
+
+![{3A4DC507-1DCB-4734-9111-553F88372018}](https://github.com/user-attachments/assets/1d0c9938-4333-4de2-b27a-a18473496e29)
+
+
 An extension to check if a website belongs to a specific list of companies.
 Overview
 
