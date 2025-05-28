@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Company URL Checker",
-  "version": "3",
+  "version": "4",
   "description": "An extension to check if a website belongs to a specific list of companies.",
   "permissions": ["tabs", "activeTab"],
   "browser_action": {
